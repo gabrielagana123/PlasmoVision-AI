@@ -21,7 +21,7 @@ The custom Convolutional Neural Network (CNN) model was trained using the offici
 
 
 
-## 🛠️ Features
+## Features
 * **High-Throughput Batch Uploading:** Upload multiple thin blood smear specimens simultaneously.
 * **Deep Learning Pathology Core:** Employs a customized CNN optimized for binary classification (Parasitized vs. Uninfected).
 * **Stakeholder Alignment:** Designed to conform to rapid deployment guidelines outlined by the World Health Organization (WHO) and Africa CDC.
